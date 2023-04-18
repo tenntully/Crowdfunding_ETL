@@ -1,13 +1,16 @@
 # Project2-TeamBeta
 
 Team Beta: Steve Kennedy, Camilla Inhapim, Michael Goff, Jason Hanlin, Marlon Ruiz
+
 Topic: Major League Baseball
+
 Task: ETL
 
 Team Beta extracted data from sources with a focus on Major League Baseball statistics.  The repository and source links for the project are as follows:
+
     • https://github.com/tenntully/Project2-TeamBeta.git
     • https://www.seanlahman.com/baseball-archive/statistics/
-    
+
 Please see code for extraction operation as follows:
 
 ![extraction process code via pandas](https://github.com.PNG)
