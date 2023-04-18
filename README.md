@@ -13,7 +13,7 @@ The source links for the project is:
 
 Please see code for extraction operation as follows:
 
-![extraction process code via pandas](https://github.com/tenntully/Crowdfunding_ETL/blob/main/Pictures/%5Bextraction%20process%20code%20via%20pandas.PNG)
+![extraction process code via pandas](https://github.com/tenntully/Crowdfunding_ETL/blob/main/Pictures/extraction%20process%20code%20via%20pandas.PNG)
 
 **Figure 1. VS code representation of extraction process code via pandas in jupyter notebook.**
 
